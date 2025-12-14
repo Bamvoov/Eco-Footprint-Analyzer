@@ -5,7 +5,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
 
 DATA_DB = {
-    "Lamb (Meat)": {"carbon": 99.48, "water": 15415, "unit": "kg"},
+    "Beef (Meat)": {"carbon": 99.48, "water": 15415, "unit": "kg"},
     "Chicken (Meat)": {"carbon": 9.87, "water": 4325, "unit": "kg"},
     "Rice (Grain)": {"carbon": 4.45, "water": 2497, "unit": "kg"},
     "Milk (Dairy)": {"carbon": 3.0, "water": 1020, "unit": "Liter"},
